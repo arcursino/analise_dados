@@ -1,11 +1,13 @@
-# Mulheres-na-TI
+# Mulheres-na-TI e a Situação
 *Ariana Cursino & Caroline Faria*
 
 
-## Inserção das mulheres nos cursos de TI nos anos de 2009 à 2017 e a situação.
+## Inserção das mulheres nos cursos de TI nos anos de 2009 à 2018 e a situação.
 
 
 
-Baixe todos dados brutos .csv do projeto [aqui]
+Baixe todos dados brutos .csv do projeto aqui:
+http://portal.inep.gov.br/microdados
 
-https://drive.google.com/open?id=11KPLIAdOnVt0SNlHL2-kZtETLSffaG-f
+*Na parte Censo da Educação Superior*
+De 2009 à 2018
