@@ -11,3 +11,13 @@ http://portal.inep.gov.br/microdados
 
 *Na parte Censo da Educação Superior*
 De 2009 à 2018
+
+iniciar > CMD > enter
+
+pip install -r requirements.txt
+
+jupyter notebook
+
+Veja os notebooks no diretório que acabou de baixar, tem a extensão ipynb
+
+Dúvidas: arcursino@gmail.com
