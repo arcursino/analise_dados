@@ -25,22 +25,3 @@ Veja os notebooks no diretório que acabou de baixar, tem a extensão ipynb
 
 Dúvidas: arcursino@gmail.com e Caroline_fnunes@hotmail.com 
 
-# Resultados Colhidos
-
-## Número de Homens e Mulheres nos Cursos de TI
-
-<div align="center">
-    <img src="/home/ariana/projetos/analise/sexo.png" width="640" />
-</div>
-
-## Comparativo de Alunos homens x Mulheres que se formaram nos Cursos de ADS 
-
-<div align="center">
-    <img src="/home/ariana/projetos/analise/formados_ads.png" width="640" />
-</div>
-
-## Inserção de Mulheres nos cursos de TI ao longo de 10 anos (análise feita de 2009 à 2018)
-
-<div align="center">
-    <img src="/home/ariana/projetos/analise/mulherxhomem.png" width="640" />
-</div>
