@@ -31,19 +31,16 @@ Dúvidas: arcursino@gmail.com e Caroline_fnunes@hotmail.com
 
 <div align="center">
     <img src="/home/ariana/projetos/analise/sexo.png" width="640" />
-    <div height="2"></div>
 </div>
 
 ## Comparativo de Alunos homens x Mulheres que se formaram nos Cursos de ADS 
 
 <div align="center">
     <img src="/home/ariana/projetos/analise/formados_ads.png" width="640" />
-    <div height="2"></div>
 </div>
 
 ## Inserção de Mulheres nos cursos de TI ao longo de 10 anos (análise feita de 2009 à 2018)
 
 <div align="center">
     <img src="/home/ariana/projetos/analise/mulherxhomem.png" width="640" />
-    <div height="2"></div>
 </div>
