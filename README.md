@@ -8,7 +8,7 @@ Análise de dados do número de mulheres versus o número de homens que entram n
 
 
 Baixe todos dados brutos .csv do projeto aqui:<p>
-[Microdados Enem por Escola](http://download.inep.gov.br/microdados
+http://download.inep.gov.br/microdados
 
 *Na parte Censo da Educação Superior*
 De 2009 à 2018
